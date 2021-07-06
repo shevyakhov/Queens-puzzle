@@ -1,0 +1,4 @@
+﻿  QueenTask.cpp
+C:\Users\Admin\Desktop\2 семестр\основы программирования\Лабораторные\QueenTask\QueenTask.cpp(9,9): warning C4101: 'c': unreferenced local variable
+C:\Users\Admin\Desktop\2 семестр\основы программирования\Лабораторные\QueenTask\QueenTask.cpp(9,12): warning C4101: 'r': unreferenced local variable
+  QueenTask.vcxproj -> C:\Users\Admin\Desktop\2 семестр\основы программирования\Лабораторные\QueenTask\Debug\QueenTask.exe
